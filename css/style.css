@@ -463,3 +463,7 @@ header {
   margin-left: auto;
   margin-right: auto;
 }
+
+.portfolio__img--p {
+  box-shadow: var(--bs);
+}
